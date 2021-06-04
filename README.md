@@ -3,3 +3,5 @@ Demo using a Trie data structure as an implementation for autocomplete in a text
 
 ## Screen shots
 ![ScreenShot](screenshot_01.png)
+
+![ScreenShot](screenshot_02.png)
